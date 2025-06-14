@@ -1,0 +1,8 @@
+Array
+(
+    [method] => GET
+    [POST] => Array
+        (
+        )
+
+)
